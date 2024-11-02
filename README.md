@@ -11,6 +11,14 @@ This template equips you with a foundational React application integrated with A
 - **Authentication**: Setup with Amazon Cognito for secure user authentication.
 - **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
 - **Database**: Real-time database powered by Amazon DynamoDB.
+- **Todo Management**: Create and delete todos with an intuitive right-click interface.
+
+## Usage
+
+To delete a todo item:
+1. Locate the todo item you wish to delete in the list.
+2. Right-click on the todo item.
+3. The item will be immediately deleted from the list and the database.
 
 ## Deploying to AWS
 
